@@ -37,6 +37,7 @@ body {
     margin-top: 50px;
     margin-bottom: 50px;
     background-color: coral;
+    margin-left: 50px;
 }
 .imgRight {
     display: inline-block;
@@ -46,6 +47,7 @@ body {
     margin-top: 50px;
     margin-bottom: 50px;
     background-color: darkgoldenrod;
+    margin-right: 50px;
 }
 .imgLeft2 {
     display: inline-block;
@@ -55,6 +57,7 @@ body {
     margin-top: 50px;
     margin-bottom: 50px;
     background-color: cadetblue;
+    margin-left: 50px;
 }
 .imgRight2 {
     display: inline-block;
@@ -64,11 +67,16 @@ body {
     margin-top: 50px;
     margin-bottom: 50px;
     background-color: darkolivegreen;
+    margin-right: 50px;
 }
 .buttonContainer {
     display: flex;
     justify-content: center; 
-    gap: 55%; 
+    gap: 51%; 
     clear: both; 
     margin-bottom: 15%; 
+}
+td{
+    margin-right: 200px;
+    padding-right: 200px;
 }
