@@ -20,3 +20,9 @@ html {
 body {
   margin-bottom: 60px;
 }
+.homeImg {
+    display: inline-block;
+    width: 100%;
+    height: 80vh;
+    border: 1px solid black;
+}
