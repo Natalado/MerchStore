@@ -2,7 +2,24 @@
     ViewData["Title"] = "Merch Store";
 }
 
+<div class="homeImg" alt="Responsive image"></div>
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <div>
+        <div class="imgLeft" alt="clothing"></div>
+        <div class="imgRight" alt="accessories"></div>
+        <div class="buttonContainer">
+            <a asp-controller="Home" asp-action="Index" class="btn btn-primary" style="width: 140px;">Clothing</a>
+            <a asp-controller="Home" asp-action="Index" class="btn btn-primary" style="width: 140px;">Accessories</a>
+        </div>
+    </div>
+    
+    <div>
+        <h2 style="clear:both;"><b>On Sale!</b></h2>
+        <div class="imgLeft2" alt="mugs"></div>
+        <div class="imgRight2" alt="decor"></div>
+        <div class="buttonContainer">
+            <a asp-controller="Home" asp-action="Index" class="btn btn-primary" style="width: 140px;">Mugs</a>
+            <a asp-controller="Home" asp-action="Index" class="btn btn-primary" style="width: 140px;">Decor</a>
+        </div>
+    </div>
 </div>

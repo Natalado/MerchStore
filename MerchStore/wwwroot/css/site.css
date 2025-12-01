@@ -1,5 +1,6 @@
+
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
@@ -20,9 +21,54 @@ html {
 body {
   margin-bottom: 60px;
 }
+
 .homeImg {
-    display: inline-block;
     width: 100%;
     height: 80vh;
     border: 1px solid black;
+    background-color: deeppink;
+    margin-bottom: 5%;
+}
+.imgLeft {
+    display: inline-block;
+    float: left;
+    width: 30vw;
+    height: 50vh;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: coral;
+}
+.imgRight {
+    display: inline-block;
+    float: right;
+    width: 30vw;
+    height: 50vh;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: darkgoldenrod;
+}
+.imgLeft2 {
+    display: inline-block;
+    float: left;
+    width: 30vw;
+    height: 50vh;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: cadetblue;
+}
+.imgRight2 {
+    display: inline-block;
+    float: right;
+    width: 30vw;
+    height: 50vh;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: darkolivegreen;
+}
+.buttonContainer {
+    display: flex;
+    justify-content: center; 
+    gap: 55%; 
+    clear: both; 
+    margin-bottom: 15%; 
 }
