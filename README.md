@@ -17,4 +17,4 @@ As mentioned earlier, this idea is a basic one. However, this is also the idea t
 
 __WireFrame Images__
 
-![alt-text](https://github.com/Natalado/MerchStore/blob/master/Screenshot%202025-11-08%20143353.png "Wirefame Image 1")  ![alt-text](https://github.com/Natalado/MerchStore/blob/main/Screenshot%202025-11-08%20144919.png "Wireframe Image 2")
+![alt-text](https://github.com/Natalado/MerchStore/blob/master/Screenshot%202025-11-08%20143353.png "Wirefame Image 1")  ![alt-text](https://github.com/Natalado/MerchStore/blob/master/Screenshot%202025-11-08%20144919%20(1).png "Wireframe Image 2")
